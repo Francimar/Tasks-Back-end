@@ -1,0 +1,4 @@
+Entrar              = psql - U postgres
+Ver bancos          = \l
+Conectar ao banco   = \c
+Listar tabelas      = \dt
